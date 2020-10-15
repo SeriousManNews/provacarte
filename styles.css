@@ -7,6 +7,8 @@ body {
   justify-content: center;
   background:url("background.jpg");
   overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+
 }
 .card {
   display: grid;
@@ -17,7 +19,6 @@ body {
   border-radius: 18px;
   background: white;
   box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-  font-family: 'Montserrat', sans-serif;
   text-align: center;
   
 

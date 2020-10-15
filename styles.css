@@ -7,7 +7,7 @@ body {
   justify-content: center;
   background:url("background.jpg");
   overflow: hidden;
-  font-family: 'Aclonica';
+  font-family: 'Aclonica'; sans-serif;
 }
 .card {
   display: grid;

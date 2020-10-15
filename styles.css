@@ -53,9 +53,6 @@ body {
 }
 .card-stats {
   grid-area: stats; 
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   background: rgb(255, 7, 110);
@@ -65,7 +62,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   color: white;
 }
 .card-stats .border {
